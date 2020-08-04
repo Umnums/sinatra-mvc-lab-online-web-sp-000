@@ -17,7 +17,7 @@ class PigLatinizer
     output.join(" ")
   end
 
-  # better way to do it 
+  # better way to do it
   # word starts with one or more consonants
     #  vowel_index = word.index(/[aAeEiIoOuU]/)
     #  consonants = word.slice(0..vowel_index-1)
